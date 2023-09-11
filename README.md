@@ -1,16 +1,23 @@
-# cv_app
+#CV App
+A mobile app that display user basic information and an opportunity to edit the information the way you want it.
 
-A new Flutter project.
+##Features
+This project display my full name, slack username, GitHub handle and a bio info.
+the project uses stateful widget to manage the state of the data being received.
+its a project that is built natively without any third party packages or dependencies.
+The app is also dynamic by allowing user to make save and retrieve data.
 
-## Getting Started
+##Appetize Link
+https://appetize.io/app/yunvkjxx2x7mvss3edhedjua7i?device=pixel4&osVersion=12.0&scale=50 this project has been tested and confirmed working perfectly with Pixel 4 Android version 12.0.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+##Installation
+To run this project, clone this repository directly on your device, go to your flutter project and open the terminal CLI and enter "flutter pub get" to load the dependencies after the dependencies has been loaded run another command "flutter run" to run the project. you can test on different simulators. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##Packages used (flutter)
+This project was built natively with the material package, aside from the material package the project didn't make use of any other third party packages.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Assumption
+I assume you already have flutter and the necessary SDKs installed and your device can run flutter code.
+
+
